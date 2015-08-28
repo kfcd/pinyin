@@ -32,6 +32,7 @@ pin1 | pīn | ㄆㄧㄣ | p'in<sup>1</sup> | pin1 | pīn | pin | pin | PIN | п�
 
 * Ruby
 * JavaScript
+* Lingvo DSL 詞典格式
 
 ## 待處理
 
