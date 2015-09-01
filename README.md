@@ -45,7 +45,7 @@ pin1 | pīn | ㄆㄧㄣ | p'in<sup>1</sup> | pin1 | pīn | pin | pin | PIN | п�
 ## 另見
 
 * [粵語拼音轉換表](https://github.com/kfcd/pingyam)
-* [閩南語拼音轉換表](https://github.com/pengim)
+* [閩南語拼音轉換表](https://github.com/kfcd/pheng-im)
 
 ## 版權
 
