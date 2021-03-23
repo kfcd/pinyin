@@ -16,7 +16,7 @@
 * [耶魯拼音](https://zh.wikipedia.org/wiki/耶魯拼音)
 * [通用拼音](https://zh.wikipedia.org/wiki/通用拼音)
 * [國語羅馬字](https://zh.wikipedia.org/wiki/國語羅馬字)
-* [拼聲拼音](https://zh.wikipedia.org/wiki/拼聲拼音)
+* [拼聲拼音](https://zh.wikiversity.org/zh-hant/拼聲拼音)
 * [俄文拼音](https://zh.wikipedia.org/wiki/漢語西里爾字母轉寫系統)（漢語西里爾字母轉寫系統）
 * 漢字示例（繁體）
 * 漢字示例（簡體）
