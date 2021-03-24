@@ -30,7 +30,7 @@ pin1 | pīn | ㄆㄧㄣ | p'in<sup>1</sup> | pin1 | pīn | pin | pin | PIN | п�
 
 ## 實現示例
 
-* Ruby
+* Ruby: [pinyin-rb](https://github.com/dohliam/pinyin-rb)
 * JavaScript
 * Lingvo DSL 詞典格式
 
